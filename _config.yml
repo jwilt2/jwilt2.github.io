@@ -7,7 +7,7 @@
 
 # Site Settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 locale                   : "en-US"
 title                    : "Wilt Research"
 title_separator          : "-"
